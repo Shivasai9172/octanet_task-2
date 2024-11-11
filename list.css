@@ -1,0 +1,50 @@
+*{
+    margin: 0%;
+    padding: 0%;
+}
+body{
+    background-image: url(img3.jpg);
+    background-repeat: no-repeat;
+    background-position: fixed;
+    background-size: 100%;
+    font-size: 30px;
+    display: flex;
+}
+.input{
+    text-align: center;
+    margin-top: 186px;
+    margin-left: 550px;
+}
+button a{
+    text-decoration: none;
+    color: black;
+    font-size: medium;
+}
+ul li{
+    list-style: none;
+} 
+ul li input{
+    font-size: 15px;
+    border-radius: 9px;
+    font-size: large;
+    color: white;
+    background-color: rgb(195, 89, 89);
+    border: none;
+}
+.top{
+    border: solid 1px;
+    border-color: white;
+    text-align: center;
+    width: 300px;
+    margin-top: 450px;
+    margin-left: 50px;
+}
+textarea{
+    margin-top: 8px;
+    border-radius: 4px;
+    border-color: rgb(195, 89, 89);
+}
+.top input{
+    font-size: large;
+    
+}
